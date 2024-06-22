@@ -1,0 +1,22 @@
+.social-icon svg {
+    width: 64px;
+    height: 64px;
+    padding: 15px;
+  }
+  
+  .bg-primary {
+    background-color: #1da1f2 !important; /* Twitter color */
+  }
+  
+  .bg-purple {
+    background-color: #833AB4 !important; /* Instagram color */
+  }
+  
+  .bg-facebook {
+    background-color: #3b5998 !important; /* Facebook color */
+  }
+  
+  .rounded-circle {
+    border-radius: 50% !important;
+  }
+  
